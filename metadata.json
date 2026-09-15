@@ -1,0 +1,11 @@
+{
+  "name": "Ryze Chemie Expense Capture",
+  "description": "Mobile-first business expense capture, bill upload, smart Gemini receipt OCR, and Google Sheet & Drive integration for Ryze Chemie.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

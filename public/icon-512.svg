@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="ryzeGrad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#042f2e" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#ryzeGrad512)" />
+  <path d="M144 112 h224 v288 l-37 -21 -37 21 -38 -21 -38 21 -37 -21 -37 21 Z" fill="#ffffff" opacity="0.96" />
+  <rect x="186" y="170" width="140" height="20" rx="10" fill="#0f766e" />
+  <rect x="186" y="212" width="100" height="16" rx="8" fill="#64748b" />
+  <rect x="186" y="248" width="124" height="16" rx="8" fill="#64748b" />
+  <circle cx="286" cy="314" r="28" fill="#059669" />
+  <path d="M276 314 l8 8 16 -16" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
